@@ -18,7 +18,7 @@
 
 ## 📌 About The Project
 
-WATI-CLONE is a web-based WhatsApp Business communication dashboard inspired by WATI.
+CONVO-NEST is a web-based WhatsApp Business communication dashboard inspired by WATI.
 
 The project aims to simplify customer communication by providing businesses with a centralized platform to manage contacts, organize conversations, create reusable message templates and monitor messaging activities.
 
@@ -41,7 +41,7 @@ Businesses that communicate with customers through WhatsApp often face challenge
 
 ## 💡 Proposed Solution
 
-WATI-CLONE provides a centralized dashboard that aims to solve these problems through:
+CONVO-NEST provides a centralized dashboard that aims to solve these problems through:
 
 - Contact management.
 - Customer communication management.
