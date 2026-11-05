@@ -1,4 +1,4 @@
-# 🚀 WATI-CLONE | WhatsApp Business Communication Dashboard
+# 🚀 CONVO-NEST | WhatsApp Business Communication Dashboard
 
 <p align="center">
   <b>A WhatsApp Business Communication Management Platform</b>
