@@ -320,6 +320,7 @@ Previously used deployment endpoints:
 
 - Backend: https://wati-b.vercel.app
 - Webhook: https://wati-b.vercel.app/webhook
+- working link : https://wati-taupe.vercel.app/
 
 ## 🔒 Security Considerations
 
